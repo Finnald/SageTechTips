@@ -1,6 +1,6 @@
 nav {
     display:block;
-    background-color:rgb(46, 46, 46);
+    background-color:rgba(46, 46, 46, 0.95);
     font-family:Arial, Helvetica, sans-serif;
     position: relative;
 }
@@ -11,6 +11,7 @@ nav {
 
 a:hover{
     color:white;
+    transition:color 0.5s;
 }
 
 nav ul {
