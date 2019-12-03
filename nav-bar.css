@@ -2,7 +2,8 @@ nav {
     display:block;
     background-color:rgb(46, 46, 46);
     font-family:Arial, Helvetica, sans-serif;
-  }
+    position: relative;
+}
   
 .selected {
     color:white;
@@ -22,6 +23,7 @@ nav ul {
 
 nav ul li {
     float:left;
+    padding-left:2%;
 }
 
 nav a{
@@ -35,5 +37,13 @@ nav a{
 nav ul li a {
     font-size:140%;
     padding-top:13px;
-    text-align:center;
+}
+
+.nav-logo {
+    float:left;
+    width:60px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: auto;
 }
