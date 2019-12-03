@@ -1,6 +1,6 @@
 nav {
     display:block;
-    background-image:linear-gradient(rgb(59, 59, 59), rgb(94, 94, 94));
+    background-color:rgb(46, 46, 46);
     font-family:Arial, Helvetica, sans-serif;
   }
   
@@ -15,21 +15,13 @@ a:hover{
 nav ul {
     margin:0;
     list-style-type: none;
-    padding:0;
-    padding-top:0.6%;
-    padding-bottom:0.4%;
+    padding:1%;
     overflow:hidden;
-    border-bottom:solid 3px rgb(196, 196, 196);
+    box-shadow:0 5px 5px grey;
 }
 
 nav ul li {
     float:left;
-}
-
-nav ul li a#title {
-    font-size:200%;
-    color:#2062db;
-    font-family:Arial, Helvetica, sans-serif;
 }
 
 nav a{
@@ -40,7 +32,7 @@ nav a{
     margin-left:3rem;
 }
 
-nav ul li a:not(#title) {
+nav ul li a {
     font-size:140%;
     padding-top:13px;
     text-align:center;
