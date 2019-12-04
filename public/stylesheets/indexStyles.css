@@ -8,3 +8,35 @@ h1 {
     margin-left:2%;
     font-family:Roboto;
 }
+#ticketbox {
+    display: absolute;
+    position: relative;
+    margin-left: 40px;
+    font-family: Roboto;
+    line-height: 1;
+    float: left;
+    padding: 40px;
+    top: -250px;
+}
+#ticketbox h2 {
+    font-weight: 800;
+    font-size: 32px;
+}
+#ticketbox p {
+    font-size: 24px;
+    font-weight: 500;
+}
+#buybutton {
+    display: inline;
+    padding: 2.5% 5%;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #ccc;
+    background-color: rgb(66, 66, 66);
+    border: none!important;
+    border-radius: 3px;
+    margin: 2% auto;
+    position: relative;
+}
