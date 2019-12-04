@@ -1,0 +1,38 @@
+@font-face {
+    font-family:"Roboto";
+    src:url("../fonts/Roboto-Regular.ttf");
+}
+
+h1 {
+    font-family:'Roboto', Arial, Helvetica, sans-serif;
+    font-size:80px;
+    display:block;
+    margin:auto;
+    text-align:center;
+    padding:3%;
+}
+
+.purchaseBox {
+    background-color:white;
+    display:inline-block;
+    width:25%;
+    height:600px;
+    border-radius:20px;
+    margin-left:2%;
+    margin-bottom:2%;
+}
+
+.purchaseBox h3 {
+    display:block;
+    margin-top:5%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    font-size:40px;
+}
+
+#purchaseBoxes {
+    display:block;
+    margin:auto;
+    text-align:center;
+}

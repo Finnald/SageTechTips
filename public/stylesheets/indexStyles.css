@@ -19,6 +19,8 @@ h1 {
     padding: 20px;
     top: -250px;
     margin: -10px!important;
+    border-top-right-radius:5px;
+    border-bottom-right-radius:5px;
 }
 #ticketbox h2 {
     font-weight: 800;
