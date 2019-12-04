@@ -12,7 +12,8 @@ nav {
 
 a:hover{
     color:white;
-    transition:color 0.5s;
+    transition: 3s;
+    text-decoration: underline;
 }
 
 nav ul {
