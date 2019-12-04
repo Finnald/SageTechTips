@@ -3,11 +3,29 @@
     src:url("../fonts/timer.ttf");
 }
 
+@font-face {
+    font-family:"Roboto";
+    src:url("../fonts/Roboto-Regular.ttf");
+}
+
 h1 {
     display:block;
     margin:auto;
     text-align:center;
     padding:3%;
     font-size:100px;
+    font-family:Roboto, Arial, Helvetica, sans-serif;
+}
+
+#countdown {
+    display:block;
+    margin:auto;
+    text-align:center;
+    font-size:100px;
+    padding:3%;
     font-family:timer;
+    background-color:white;
+    border-radius:50px;
+    width:40%;
+    margin-top:10%;
 }
