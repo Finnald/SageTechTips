@@ -20,7 +20,7 @@ nav ul {
     list-style-type: none;
     padding:1%;
     overflow:hidden;
-    box-shadow:0 5px 5px grey;
+    box-shadow:0 5px 5px rgba(0, 0, 0, 0.5);
 }
 
 nav ul li {

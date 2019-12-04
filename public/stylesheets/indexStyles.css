@@ -3,13 +3,6 @@
     src: url("../fonts/Roboto-Regular.ttf");
 }
 
-#sttFull {
-    width:30%;
-    display:block;
-    margin:auto;
-    padding:2%;
-}
-
 h1 {
     display:block;
     margin-left:2%;
