@@ -9,13 +9,14 @@ h1 {
     font-family:Roboto;
 }
 #ticketbox {
+    background-color: rgba(255, 162, 0, .8);
     display: absolute;
     position: relative;
-    margin-left: 40px;
+    margin-left: 60px;
     font-family: Roboto;
     line-height: 1;
     float: left;
-    padding: 40px;
+    padding: 20px;
     top: -250px;
     margin: -10px!important;
 }
