@@ -17,6 +17,8 @@ h1 {
     line-height: 1;
     float: left;
     padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
     top: -250px;
     margin: -10px!important;
 }
