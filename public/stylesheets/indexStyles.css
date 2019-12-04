@@ -4,10 +4,12 @@
 }
 
 h1 {
+    position: absolute;
     display:block;
     margin-left:2%;
     font-family:Roboto;
 }
+
 #ticketbox {
     background-color: rgba(255, 162, 0, .8);
     display: absolute;
@@ -17,20 +19,25 @@ h1 {
     line-height: 1;
     float: left;
     padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
     top: -250px;
     margin: -10px!important;
     border-top-right-radius:5px;
     border-bottom-right-radius:5px;
 }
+
 #ticketbox h2 {
     font-weight: 800;
     font-size: 32px;
     line-height: 0.3;
 }
+
 #ticketbox p {
     font-size: 24px;
     font-weight: 500;
 }
+
 #buybutton {
     display: inline;
     padding: 2.5% 5%;

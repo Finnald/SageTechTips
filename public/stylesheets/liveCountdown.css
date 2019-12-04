@@ -8,6 +8,12 @@
     src:url("../fonts/Roboto-Regular.ttf");
 }
 
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
 h1 {
     display:block;
     margin:auto;
@@ -18,13 +24,14 @@ h1 {
 }
 
 #countdown {
+    color: black;
     display:block;
     margin:auto;
     text-align:center;
     font-size:100px;
     padding:3%;
     font-family:timer;
-    background-color:white;
+    background-color:rgba(255, 162, 0, .8);
     border-radius:50px;
     width:50%;
     margin-top:5%;
