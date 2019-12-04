@@ -38,6 +38,7 @@ nav a{
 nav ul li a {
     font-size:140%;
     padding-top:13px;
+    padding-bottom: 13px;
 }
 
 .nav-logo {
