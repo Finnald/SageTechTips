@@ -20,6 +20,7 @@ h1 {
     border-radius:20px;
     margin-left:2%;
     margin-bottom:2%;
+    box-shadow:0 10px 5px rgba(0, 0, 0, 0.5);
 }
 
 .purchaseBox h3 {
