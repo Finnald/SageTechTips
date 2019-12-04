@@ -1,7 +1,13 @@
+@font-face {
+    font-family:"timer";
+    src:url("../fonts/timer.ttf");
+}
+
 h1 {
     display:block;
     margin:auto;
     text-align:center;
     padding:3%;
     font-size:100px;
+    font-family:timer;
 }
