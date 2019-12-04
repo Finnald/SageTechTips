@@ -17,10 +17,12 @@ h1 {
     float: left;
     padding: 40px;
     top: -250px;
+    margin: -10px!important;
 }
 #ticketbox h2 {
     font-weight: 800;
     font-size: 32px;
+    line-height: 0.3;
 }
 #ticketbox p {
     font-size: 24px;
