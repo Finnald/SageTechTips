@@ -24,7 +24,6 @@ nav ul {
 
 nav ul li {
     float:left;
-    padding-left:2%;
 }
 
 nav a{
@@ -47,4 +46,8 @@ nav ul li a {
     top: 0;
     bottom: 0;
     margin: auto;
+}
+
+#navbar {
+    padding-left:2%;
 }
