@@ -27,5 +27,13 @@ h1 {
     background-color:white;
     border-radius:50px;
     width:50%;
-    margin-top:10%;
+    margin-top:5%;
+}
+
+#date {
+    font-size:50px;
+    font-family:Roboto, Arial, Helvetica, sans-serif;
+    display:block;
+    margin:auto;
+    text-align:center;
 }
