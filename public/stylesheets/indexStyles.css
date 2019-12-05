@@ -11,7 +11,7 @@ h1 {
 }
 
 #ticketbox {
-    background-color: rgba(255, 162, 0, .8);
+    background-color: rgba(255, 255, 255, 0.8);
     display: absolute;
     position: relative;
     margin-left: 60px;
@@ -45,8 +45,8 @@ h1 {
     text-align: center;
     text-decoration: none;
     outline: none;
-    color: #ccc;
-    background-color: rgb(66, 66, 66);
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 185, 55);
     border: none!important;
     border-radius: 3px;
     margin: 2% auto;
@@ -54,6 +54,6 @@ h1 {
 }
 
 #buybutton:hover {
-    background-color: rgba(255, 162, 0, .8);
-    transition: ease-in-out 1.4s;
+    background-color: rgb(184, 120, 3);
+    transition: ease-in-out 0.7s;
 }
