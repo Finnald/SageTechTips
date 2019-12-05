@@ -33,6 +33,13 @@ h1 {
     box-shadow:0 10px 5px rgba(0, 0, 0, 0.5);
 }
 
+.purchaseBox p {
+    display:block;
+    margin:auto;
+    text-align:center;
+    width:90%;
+}
+
 .purchaseBox h3 {
     display:block;
     margin-top:5%;
