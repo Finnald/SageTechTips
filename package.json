@@ -1,0 +1,20 @@
+{
+  "name": "sagetechtips",
+  "version": "1.0.0",
+  "description": "YOU FOUND THE STT LIVE CODE!!\r you are pretty special, here's a free platinum+ pass.\r [P+]",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Finnald/SageTechTips.git"
+  },
+  "author": "Callan R Lowrie James P Edmiston Finn D Parry Aidan J Vicars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Finnald/SageTechTips/issues"
+  },
+  "homepage": "https://github.com/Finnald/SageTechTips#readme"
+}
