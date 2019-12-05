@@ -52,3 +52,8 @@ h1 {
     margin: 2% auto;
     position: relative;
 }
+
+#buybutton:hover {
+    background-color: rgba(255, 162, 0, .8);
+    transition: ease-in-out 1.4s;
+}
