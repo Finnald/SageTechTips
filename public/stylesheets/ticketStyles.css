@@ -3,6 +3,15 @@
     src:url("../fonts/Roboto-Regular.ttf");
 }
 
+@font-face {
+    font-family:"Open Sans";
+    src:url("../fonts/OpenSans-Regular.ttf");
+}
+
+body {
+    font-family:Open Sans;
+}
+
 h1 {
     font-family:'Roboto', Arial, Helvetica, sans-serif;
     font-size:80px;
@@ -30,10 +39,35 @@ h1 {
     margin-right:auto;
     text-align:center;
     font-size:40px;
+    padding:2%;
 }
 
 #purchaseBoxes {
     display:block;
     margin:auto;
     text-align:center;
+}
+
+#standard h3{
+    background-color:gray;
+}
+
+#vip h3 {
+    background-color:rgb(183, 0, 255);
+}
+
+#bronze h3 {
+    background-color:rgb(175, 105, 0);
+}
+
+#silver h3 {
+    background-color:silver;
+}
+
+#gold h3 {
+    background-color:rgb(255, 162, 0);
+}
+
+#platinum h3 {
+    background-color:rgb(183, 204, 211)
 }
