@@ -1,6 +1,11 @@
+@font-face {
+    font-family:"Roboto";
+    src: url("../fonts/Roboto-Regular.ttf");
+}
+
 #Tip-box {
     margin: 60px;
-    background-color: rgb(255, 162, 0);
+    background-color: #ff7f3b;
     border-radius: 30px;
 }
 
@@ -10,6 +15,7 @@
 }
 
 #Tip {
+    font-family: "Roboto";
     padding-bottom: 20px;
     padding-top: 20px;
 }
