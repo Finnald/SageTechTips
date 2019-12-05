@@ -1,5 +1,5 @@
 //set the date of STT Live and make it count down every second
-let countDownDate = new Date("Jan 1, 2020 12:00:00").getTime();
+const countDownDate = new Date("Jan 1, 2020 12:00:00").getTime();
 
 let x = setInterval(function() {
 
