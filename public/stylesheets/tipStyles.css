@@ -4,18 +4,28 @@
 }
 
 #Tip-box {
+    text-align: center;
     margin: 60px;
     background-color: #ff7f3b;
     border-radius: 30px;
-}
-
-#Tip-list {
-    margin-left: 40px;
     font-size: 40px;
 }
 
 #Tip {
+    margin-left: 40px;
     font-family: "Roboto";
-    padding-bottom: 30px;
-    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+hr {
+    width: 80%;
+    height: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:black;
+    border: 0 none;
+    border-radius: 4px;
+    margin-bottom: 0;
+    margin-top: 0;
 }
