@@ -1,0 +1,15 @@
+#Tip-box {
+    margin: 60px;
+    background-color: rgb(255, 162, 0);
+    border-radius: 30px;
+}
+
+#Tip-list {
+    margin-left: 40px;
+    font-size: 40px;
+}
+
+#Tip {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
