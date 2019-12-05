@@ -51,6 +51,7 @@ h1 {
     border-radius: 3px;
     margin: 2% auto;
     position: relative;
+    transition: 0.7s ease 0s;
 }
 
 #buybutton:hover {
