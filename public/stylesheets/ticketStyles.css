@@ -25,7 +25,7 @@ h1 {
     background-color:rgba(255, 255, 255, 0.8);
     display:inline-block;
     width:25%;
-    height:600px;
+    height:525px;
     border-radius:20px;
     margin-left:2%;
     margin-bottom:2%;
@@ -46,6 +46,37 @@ h1 {
     display:block;
     margin:auto;
     text-align:center;
+}
+
+.purchaseBox p, .purchaseBox ul{
+    font-size:20px;
+    text-align:initial;
+}
+
+.no {
+    text-decoration:line-through;
+}
+
+#ticketBuy {
+    background-color:rgb(6, 192, 0);
+    font-size:40px;
+    border-radius:5px;
+    padding:1%;
+    display:block;
+    width:30%;
+    margin:auto;
+    text-align:center;
+}
+
+#ticketBuy:hover {
+    text-decoration:none;
+    color:black;
+    cursor: pointer;
+}
+
+p a {
+    color:black;
+    text-decoration:none;
 }
 
 #standard h3{
