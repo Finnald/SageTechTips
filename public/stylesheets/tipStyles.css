@@ -21,12 +21,14 @@ hr {
     height: 8px;
     margin-left: auto;
     margin-right: auto;
-    background: linear-gradient(135deg, black 25%, transparent 25%) -20px 0,
-    linear-gradient(225deg, black 25%, transparent 25%) -20px 0,
-    linear-gradient(315deg, black 25%, transparent 25%),
-    linear-gradient(45deg, black 25%, transparent 25%);
+    background: #fe4d01;
     border: 0 none;
     border-radius: 4px;
     margin-bottom: 0;
     margin-top: 0;
+}
+
+#TipNumber {
+    display: unset;
+    font-size: 100%;
 }
