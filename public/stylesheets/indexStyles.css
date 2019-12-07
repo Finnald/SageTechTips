@@ -3,11 +3,8 @@
     src: url("../fonts/Roboto-Regular.ttf");
 }
 
-h1 {
-    position: absolute;
-    display:block;
-    margin-left:2%;
-    font-family:Roboto;
+html, body {
+    background-color: black;
 }
 
 #ticketbox {
@@ -59,5 +56,9 @@ h1 {
     transition: ease-in-out 0.7s;
 }
 #trailer {
-    margin-top: 5%;
+    position: absolute;
+    display:block;
+    margin-left: 26%;
+    margin-bottom: 5px;
+    border: white;
 }
