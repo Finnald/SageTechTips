@@ -58,3 +58,6 @@ h1 {
     background-color: rgb(184, 120, 3);
     transition: ease-in-out 0.7s;
 }
+#trailer {
+    margin-top: 5%;
+}
