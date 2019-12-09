@@ -66,11 +66,12 @@ html, body {
 }
 
 #Trailer-Desc {
-    display: block;
+    display: flex;
     margin-top: 5%;
-    margin-right: 7%;
+    margin-right: 3%;
     float: right;
-    text-align: center;
+    text-align: left;
     color: white;
     width: 40%;
+    width: 25%;
 }
